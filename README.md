@@ -1,5 +1,7 @@
 # book-reading-planner
 
+![alt text]([https://github.com/savsay/book-reading-planner/blob/main/readmeresim.png])
+
 # 365 Günlük Kitap Okuma Planı Oluşturucu
 
 Bu uygulama, günlük okuma hedefinize göre yıllık kitap okuma planı oluşturmanıza yardımcı olur.
