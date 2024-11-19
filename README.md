@@ -98,6 +98,5 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 ## 🙏 Teşekkür
 
 Bu uygulama, "Ölmeden Önce Okunması Gereken 1289 Kitap" listesinden ilham alınarak geliştirilmiştir.
-  
-- sayfa
+
 
