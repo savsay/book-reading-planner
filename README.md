@@ -1,6 +1,6 @@
 # book-reading-planner
 
-<img src="https://raw.githubusercontent.com/savsay/book-reading-planner/refs/heads/main/readmeresim.png" alt="result" width="320" height="180">
+<img src="https://raw.githubusercontent.com/savsay/book-reading-planner/refs/heads/main/readmeresim.png" alt="result">
 
 # 365 Günlük Kitap Okuma Planı Oluşturucu
 
