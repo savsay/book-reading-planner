@@ -6,6 +6,10 @@
 
 Bu uygulama, "Ölmeden Önce Okunması Gereken 1289 Kitap" listesinden ilham alınarak geliştirilmiştir. günlük okuma hedefinize göre bu liste icinden yıllık kitap okuma planı oluşturmanıza yardımcı olur.
 
+Calisan uygulamaya asagidaki link uzerinden ulasabilirsiniz.
+
+https://books-need-to-read-before-die.streamlit.app/
+
 ## Özellikler
 
 - Günlük sayfa hedefine göre plan oluşturma
